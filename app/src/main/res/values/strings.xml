@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BioDataForm</string>
+    <string-array name="phonetype">
+        <item>Home</item>
+        <item>Office</item>
+        <item>Mobile</item>
+    </string-array>
+</resources>
